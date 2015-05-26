@@ -1,0 +1,305 @@
+*{
+
+    background-color: silver;
+}
+h1{
+
+    font-family: sans-serif;
+    text-align: center;
+    color: rgba(5, 5, 5, 0.91);
+    margin: auto auto 0px auto;
+    font-size: 45px;
+    border-collapse: collapse;
+}
+div.scr{
+
+    height: 570px;
+    width: 350px;
+    background-color: wheat;
+    margin: 8px auto auto auto;
+    border: 1px solid #b2c0af;
+    border-radius: 25px;
+    box-shadow: 0px 0px 7px 5px;
+
+}
+input{
+    
+    width: 300px;
+    height:50px;
+    margin: 20px 20px 20px 23px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px ;
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+
+}
+table{
+   border-spacing: 25px;
+    background-color: inherit;
+    ;
+}
+.mc{
+    
+    height: 30px;
+    width: 50px;
+    font-size: 20px;
+    margin: 25px auto auto 20px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(34, 34, 34, 0.57);
+    font-family: fantasy;
+}
+.mr{
+    height: 30px;
+    width: 50px;
+    font-size: 20px;
+    margin: 25px auto auto 20px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(34, 34, 34, 0.57);
+    font-family: fantasy;
+}
+.m2{
+    height: 30px;
+    width: 50px;
+    font-size: 20px;
+    margin: 25px auto auto 20px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    background-color:  rgba(34, 34, 34, 0.57);
+    font-family: fantasy
+
+}
+.m-{
+    height: 30px;
+    width: 50px;
+    font-size: 20px;
+    margin: 25px auto auto 20px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(34, 34, 34, 0.57);
+    font-family: fantasy
+
+}
+.c{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    background-color: cadetblue;
+    font-family: cursive;
+
+}
+.x{
+
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.div{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+
+}
+.per{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.one{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+
+}
+.two{
+
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.thr{
+
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.four{
+
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.five{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.six{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+
+}
+.sev{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.eig
+{
+
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.nine{
+
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.point{
+
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.zero{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.equals{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+    background-color: darkcyan;
+
+}
+.plus{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+.minus{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    font-family: cursive;
+}
